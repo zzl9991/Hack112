@@ -1,5 +1,6 @@
 import pygame
 
+print("Hello")
 
 boardSize = input("Enter the level: ")
 boardWidth = boardSize
